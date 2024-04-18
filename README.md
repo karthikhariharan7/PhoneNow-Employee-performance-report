@@ -17,6 +17,7 @@ Possible KPIs include (to get you started, but not limited to):
 - Average speed of answer
 - Agent’s performance quadrant -> average handle time (talk duration) vs calls answered
 
+### Tools Used - Power BI
 
 ### Steps followed 
 
